@@ -1,4 +1,4 @@
-# <img src="https://logowik.com/content/uploads/images/423918.logowik.com.webp" style="width: 40px; height: auto;"> This project is part of my curriculum at School 42 <img src="https://logowik.com/content/uploads/images/423918.logowik.com.webp" style="width: 40px; height: auto;">
+# <img src="https://logowik.com/content/uploads/images/423918.logowik.com.webp" style="width: 40px; height: auto;"> This project is part of my cursus at School 42 <img src="https://logowik.com/content/uploads/images/423918.logowik.com.webp" style="width: 40px; height: auto;">
 
 Welcome to my **Libft** project! This was my first dive into building a custom C library during my journey at **School 42**. This project helped me gain a deep understanding of the essential C functions by re-implementing them from scratch.
 
